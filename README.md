@@ -13,3 +13,16 @@ As consultas também têm sido registradas em planilhas, com data e hora de real
 Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso. A partir disso, espera-se que o sistema imprima um relatório da receita ao paciente ou permita sua visualização via internet.
 
 ![diagrama_conceitual](https://github.com/GleycePereira/Hospital/assets/142240220/f19f620f-915f-4717-bb4d-d2ab2c607179)
+
+<h2>Parte 2</h2>
+No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
+
+Para cada internação, são anotadas a data de entrada, a data prevista de alta e a data efetiva de alta, além da descrição textual dos procedimentos a serem realizados. 
+
+As internações precisam ser vinculadas a quartos, com a numeração e o tipo. 
+
+Também é necessário controlar quais profissionais de enfermaria estarão responsáveis por acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).
+
+Faça a ligação com diagrama desenvolvido, construindo relacionamentos com entidades relacionadas.  
+
+![DiagramaER_pt2](https://github.com/GleycePereira/Hospital/assets/142240220/7edc16e3-f00b-490e-8339-604f63c842d8)
