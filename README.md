@@ -29,4 +29,4 @@ Faça a ligação com diagrama desenvolvido, construindo relacionamentos com ent
 
 Desse modelo já devemos gerar a etapa lógica da nossa modelagem!
 
-![DiagramaLogico_hospital](https://github.com/GleycePereira/Hospital/assets/142240220/ae4eb5df-9591-4877-b2a5-f8bc2352f62d)
+![DiagramaLogico_hospital](https://github.com/GleycePereira/Hospital/assets/142240220/90ad88eb-60cd-4494-87e2-7828120e38bd)
