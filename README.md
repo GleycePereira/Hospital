@@ -25,7 +25,7 @@ Também é necessário controlar quais profissionais de enfermaria estarão resp
 
 Faça a ligação com diagrama desenvolvido, construindo relacionamentos com entidades relacionadas.  
 
-![DiagramaER_pt2](https://github.com/GleycePereira/Hospital/assets/142240220/7edc16e3-f00b-490e-8339-604f63c842d8)
+![DiagramaER2 drawio](https://github.com/GleycePereira/Hospital/assets/142240220/8cf6447d-bfcd-4cc2-a6ac-0a6ce0daa746)
 
 Desse modelo já devemos gerar a etapa lógica da nossa modelagem!
 
