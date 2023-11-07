@@ -31,7 +31,7 @@ Desse modelo já devemos gerar a etapa lógica da nossa modelagem!
 
 ![DiagramaLogico_hospital](https://github.com/GleycePereira/Hospital/assets/142240220/90ad88eb-60cd-4494-87e2-7828120e38bd)
 
-<h2>Parte três</h2>
+<h2>Parte 3</h2>
 Crie scripts de povoamento das tabelas desenvolvidas na atividade anterior
 Observe as seguintes atividades: 
 - Inclua ao menos dez médicos de diferentes especialidades.
