@@ -259,3 +259,9 @@ VALUES
 ("Lorem Ipsum is simply dummy text", "2017-03-15", "2017-05-05","2017-05-06",13,6,1,9,1),
 ("Lorem Ipsum is simply dummy text", "2016-08-30", "2016-09-05","2016-09-05",12,11,3,4,7),
 ("Lorem Ipsum is simply dummy text", "2021-01-12", "201-02-15","2021-02-12",3,12,2,6,3);
+
+-- Adicionar coluna
+ALTER TABLE medico ADD COLUMN em_atividade VARCHAR(100);
+
+UPDATE medico SET em_atividade = 'ativo' WHERE id_medico BETWEEN 1 AND 10;
+UPDATE medico SET em_atividade = 'inativo' WHERE id_medico IN (11, 12);
