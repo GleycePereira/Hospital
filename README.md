@@ -85,7 +85,7 @@ Pensando no banco que já foi criado para o Projeto do Hospital, realize algumas
 - Os nomes, CREs e número de internações de enfermeiros que participaram de mais de uma internação.
 
 
-<strong> Observação 1:</strong> se necessário, inclua novos registros no banco de dados para testar adequadamente. 
+<strong> Observação:</strong> se necessário, inclua novos registros no banco de dados para testar adequadamente. 
 
 
   ![Captura de tela 2023-11-08 011450](https://github.com/GleycePereira/Hospital/assets/142240220/1d8a2228-2e92-465c-91e5-99e80c2f4913)
